@@ -1,0 +1,12 @@
+node_modules
+
+# vscode settings
+.vscode
+
+# lol macs
+.DS_Store
+
+# Foundry build directory and cache
+cache/
+out/
+forge-cache/

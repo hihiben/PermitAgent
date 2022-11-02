@@ -1,0 +1,16 @@
+{
+  "name": "PermitAgent",
+  "version": "1.0.0",
+  "main": "foundry.toml",
+  "repository": "git@github.com:hihiben/PermitAgent.git",
+  "author": "hihiben <hihiben@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-solidity": "^1.0.0-rc.1",
+    "solhint": "^3.3.7"
+  }
+}
